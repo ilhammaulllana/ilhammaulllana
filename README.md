@@ -4,7 +4,7 @@
 
 A dedicated Information Systems student from Amikom University with a keen interest in mobile application development. Skilled in using Flutter to create cross-platform applications with responsive user interfaces and optimal experiences. Detail-oriented, passionate about learning new technologies, and strong problem-solving skills. Actively seeking opportunities to contribute to the development of innovative applications that provide real-world solutions. 
 <!-- ## 🌐 Socials: -->
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/story.thur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatkhurrhn/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mox.ie3e/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilham-maulllana44/) 
  
 <!-- ## 💻 Technical Skills:
 
