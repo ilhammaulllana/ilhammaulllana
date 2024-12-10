@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatkhur03&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-# Hi 👋! I'm Fathur
+# Hi 👋! I'm ilham maulana
 
-As a 5th semester student majoring in Information Systems at Nurul Fikri Integrated Technology College, I have a huge passion for technology and am always eager to stay updated on the latest trends in the world. Oh, and I also have a lot of followers on social media! On Instagram, I have over 90K followers, on LinkedIn over 500, and on TikTok over 3K. Let's be friends! 
+A dedicated Information Systems student from Amikom University with a keen interest in mobile application development. Skilled in using Flutter to create cross-platform applications with responsive user interfaces and optimal experiences. Detail-oriented, passionate about learning new technologies, and strong problem-solving skills. Actively seeking opportunities to contribute to the development of innovative applications that provide real-world solutions. 
 <!-- ## 🌐 Socials: -->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/story.thur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatkhurrhn/) 
  
